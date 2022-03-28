@@ -4,4 +4,4 @@ These are analyzes of publicly available data sets. Most often datasets from Dat
 
 Data analyzes are mostly processed in a Jupyter notebook.
 
-Some analyzes are not complete. I'm still in the process of learning.
+Some analyzes aren't complete. I'm still in the process of learning.
