@@ -1,4 +1,4 @@
-** Data analysis **
+**Data analysis**
 
 These are analyzes of publicly available data sets. Most often datasets from DataCamp.com.
 
